@@ -34,8 +34,7 @@ $ npm run typeorm:cli schema:sync
 
 ## Test
 
-```Not implemented yet.
+Not implemented yet.
 
 ## Author
-
-- [Rafael Vilaca]
+Rafael Vilaca
