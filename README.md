@@ -2,10 +2,16 @@
 
 This project was created to help developers to start a new project without lose time with authentication and authorization systems.
 
+## Techs
+- NestJS
+- JWT
+- Docker
+- PostgreSQL
+
 ## Installation
 
-Rename .env.example to .env and configure correctly.
-Configure file /src/shared/config/dbconfig-cli.json.
+-Rename .env.example to .env and configure correctly.
+-Configure file /src/shared/config/dbconfig-cli.json.
 
 ```bash
 $ npm install
