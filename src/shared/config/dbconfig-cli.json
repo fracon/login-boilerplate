@@ -1,0 +1,10 @@
+{
+  "type": "USE THE SAME AS CONFIGURED IN .ENV",
+  "host": "USE THE SAME AS CONFIGURED IN .ENV",
+  "port": "USE THE SAME AS CONFIGURED IN .ENV (WITHOUT QUOTES)",
+  "username": "USE THE SAME AS CONFIGURED IN .ENV",
+  "password": "USE THE SAME AS CONFIGURED IN .ENV",
+  "database": "USE THE SAME AS CONFIGURED IN .ENV",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": false
+}
